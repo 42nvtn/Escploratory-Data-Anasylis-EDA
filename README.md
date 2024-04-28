@@ -1,4 +1,4 @@
-# Escploratory-Data-Anasylis-EDA
+# Excploratory-Data-Anasylis-EDA
 # GROUP08_CSC17104_20KHDL2
 # PROGRAMMING FOR DATA SCIENCE
 
